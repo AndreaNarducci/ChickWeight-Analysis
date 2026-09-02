@@ -1,1 +1,1 @@
-Statistical inference on the popular ChickWeight dataset (RDocument); built as case study for Quant Risk technical panel interview in BB.
+Statistical inference on the popular ChickWeight dataset (RDocument); built as case study for Quant Risk technical panel interview at a Bulge Bracket bank. Open the pdf for the full presentation and results. Note: the statistical question is : "Find whether diet 1 and 2 determine different growth in the two different chicks"
